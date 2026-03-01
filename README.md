@@ -17,12 +17,6 @@ I love working with the following programming languages:
 - **Java** ☕
 - **JavaScript** ⚡
 
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonst036&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonst036&layout=compact&theme=tokyonight)
-
 ## 📫 Get In Touch
 
 - **GitHub:** [@leonst036](https://github.com/leonst036)
